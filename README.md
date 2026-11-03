@@ -2,8 +2,6 @@
 
 Desarrollador web freelance y estudiante de Ingeniería Informática. Construyo **landing pages, sistemas a medida, chatbots y automatizaciones de datos** para negocios: tomo el proyecto entero, del problema al deploy.
 
-🌐 **Portafolio:** [steven-systems.vercel.app](https://steven-systems.vercel.app)
-
 ---
 
 #### Lo que hago
@@ -33,9 +31,5 @@ Desarrollador web freelance y estudiante de Ingeniería Informática. Construyo 
 | Proyecto | Qué es |
 |---|---|
 | **Landing personal** | Mi portafolio en Next.js con hero generativo en canvas, proyectos apilados y una demo de chatbot. *(Privado.)* |
-| **Shagy Burger** | Web con carta y pedidos por WhatsApp, pedido desde la mesa con QR, panel de caja y cocina, y análisis de 228 reseñas en Excel. *(Privado, proyecto de cliente.)* |
+| **Burger Restaurant** | Web con carta y pedidos por WhatsApp, pedido desde la mesa con QR, panel de caja y cocina, y análisis de 228 reseñas en Excel. *(Privado, proyecto de cliente.)* |
 | **Market Inventory App** | Dashboard de inventario y ventas con métricas en tiempo real y pagos por Yape y efectivo. *(Privado.)* |
-
-#### Contacto
-
-🌐 [Portafolio](https://steven-systems.vercel.app)
